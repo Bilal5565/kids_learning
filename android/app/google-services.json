@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "868234632104",
+    "project_id": "edu-app-c4a2f",
+    "storage_bucket": "edu-app-c4a2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868234632104:android:0d1c9480067b638c9bdb9d",
+        "android_client_info": {
+          "package_name": "com.example.edu_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtj-Ebe1wfx35olfpUl1xk_-WMUMT79pc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868234632104:android:52938ee6074220059bdb9d",
+        "android_client_info": {
+          "package_name": "come.example.edu_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtj-Ebe1wfx35olfpUl1xk_-WMUMT79pc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
